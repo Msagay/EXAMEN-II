@@ -1,0 +1,134 @@
+GOOD : Acceso concedido
+GOOD : Acceso concedido
+ERROR: Acceso denegado.
+ERROR: Acceso denegado.
+ERROR: Acceso denegado.
+GOOD : Acceso concedido
+GOOD : SoldadoExperto-Fusil Fusil/Revolver Disparar (Munición)
+GOOD : Fusil/Revolver Disparar (Munición) No Municion
+GOOD : Fusil/Revolver Disparar (Munición) No Municion
+GOOD : Fusil/Revolver Disparar (Munición) No Municion
+GOOD : Fusil/Revolver Disparar (Munición) No Municion
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : BioSensor/BioEscaner Asistir (Energía) No Municion
+GOOD : BioSensor/BioEscaner Asistir (Energía) No Municion
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : BioSensor/BioEscaner Asistir (Energía) No Municion
+GOOD : Fusil/Revolver Disparar (Munición) No Municion
+ERROR: ExoAsalto No Entrenado.
+GOOD : SoldadoExperto-Fusil Fusil/Revolver Disparar (Munición)
+GOOD : SoldadoExperto-Fusil Fusil/Revolver Disparar (Munición)
+GOOD : Fusil/Revolver Disparar (Munición) No Municion
+GOOD : Fusil/Revolver Disparar (Munición) No Municion
+GOOD : Acceso concedido
+GOOD : SoldadoExperto-Misil Misil/Mortero Disparar (Munición)
+GOOD : SoldadoExperto-Misil Misil/Mortero Disparar (Munición)
+GOOD : SoldadoExperto-Misil Misil/Mortero Disparar (Munición)
+GOOD : Misil/Mortero Disparar (Munición) No Municion
+GOOD : Misil/Mortero Disparar (Munición) No Municion
+GOOD : Misil/Mortero Disparar (Munición) No Municion
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+ERROR: ExoInfanteria No Entrenado.
+ERROR: Acceso denegado.
+GOOD : Acceso concedido
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : Acceso concedido
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : BioSensor/BioEscaner Asistir (Energía) Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   ,
+GOOD : BioSensor/BioEscaner Asistir (Energía) Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   ,
+GOOD : BioSensor/BioEscaner Asistir (Energía) Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   ,
+GOOD : BioSensor/BioEscaner Asistir (Energía) Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   ,
+GOOD : BioSensor/BioEscaner Asistir (Energía) Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   ,
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : BioSensor/BioEscaner Asistir (Energía) Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   ,
+GOOD : SoldadoExperto-Fusil Fusil/Revolver Disparar (Munición)
+GOOD : SoldadoExperto-Fusil Fusil/Revolver Disparar (Munición)
+GOOD : SoldadoExperto-Fusil Fusil/Revolver Disparar (Munición)
+GOOD : SoldadoExperto-Fusil Fusil/Revolver Disparar (Munición)
+GOOD : Fusil/Revolver Disparar (Munición) Munición_	Fusil,  Munición_Revolver		,Munición_	Fusil,  Munición_Revolver
+GOOD : Fusil/Revolver Disparar (Munición) Munición_	Fusil,  Munición_Revolver		,Munición_	Fusil,  Munición_Revolver
+GOOD : Fusil/Revolver Disparar (Munición) Munición_	Fusil,  Munición_Revolver		,Munición_	Fusil,  Munición_Revolver
+GOOD : Fusil/Revolver Disparar (Munición) Munición_	Fusil,  Munición_Revolver		,Munición_	Fusil,  Munición_Revolver
+GOOD : Fusil/Revolver Disparar (Munición) Munición_	Fusil,  Munición_Revolver		,Munición_	Fusil,  Munición_Revolver
+GOOD : Fusil/Revolver Disparar (Munición) Munición_	Fusil,  Munición_Revolver		,Munición_	Fusil,  Munición_Revolver
+GOOD : Fusil/Revolver Disparar (Munición) Munición_	Fusil,  Munición_Revolver		,Munición_	Fusil,  Munición_Revolver
+GOOD : Fusil/Revolver Disparar (Munición) Munición_	Fusil,  Munición_Revolver		,Munición_	Fusil,  Munición_Revolver
+GOOD : Fusil/Revolver Disparar (Munición) Munición_	Fusil,  Munición_Revolver		,Munición_	Fusil,  Munición_Revolver
+GOOD : Acceso concedido
+GOOD : Acceso concedido
+GOOD : SoldadoExperto-GPS GPS/Giroscopio Detectar (Energía)
+GOOD : GPS/Giroscopio Detectar (Energía) Energía_GPS,    Energía_Giroscopio				,Munición_	Fusil,  Munición_Revolver
+GOOD : GPS/Giroscopio Detectar (Energía) Energía_GPS,    Energía_Giroscopio				,Munición_	Fusil,  Munición_Revolver
+GOOD : GPS/Giroscopio Detectar (Energía) Energía_GPS,    Energía_Giroscopio				,Munición_	Fusil,  Munición_Revolver
+ERROR: ExoExplorador No Entrenado.
+GOOD : SoldadoExperto-GPS GPS/Giroscopio Detectar (Energía)
+GOOD : GPS/Giroscopio Detectar (Energía) Energía_GPS,    Energía_Giroscopio				,Munición_	Fusil,  Munición_Revolver
+GOOD : Acceso concedido
+ERROR: ExoAsalto No Entrenado.
+ERROR: ExoAsalto No Entrenado.
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : BioSensor/BioEscaner Asistir (Energía) Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   ,
+GOOD : BioSensor/BioEscaner Asistir (Energía) Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   ,
+GOOD : SoldadoExperto-Fusil Fusil/Revolver Disparar (Munición)
+GOOD : Acceso concedido
+GOOD : Acceso concedido
+GOOD : SoldadoExperto-Fusil Fusil/Revolver Disparar (Munición)
+ERROR: ExoAsalto No Entrenado.
+GOOD : Acceso concedido
+GOOD : Acceso concedido
+ERROR: ExoExplorador No Entrenado.
+GOOD : SoldadoExperto-GPS GPS/Giroscopio Detectar (Energía)
+GOOD : SoldadoExperto-GPS GPS/Giroscopio Detectar (Energía)
+GOOD : SoldadoExperto-GPS GPS/Giroscopio Detectar (Energía)
+GOOD : GPS/Giroscopio Detectar (Energía) Energía_GPS,    Energía_Giroscopio				,Munición_	Fusil,  Munición_Revolver
+GOOD : GPS/Giroscopio Detectar (Energía) Energía_GPS,    Energía_Giroscopio				,Munición_	Fusil,  Munición_Revolver
+GOOD : GPS/Giroscopio Detectar (Energía) Energía_GPS,    Energía_Giroscopio				,Munición_	Fusil,  Munición_Revolver
+GOOD : GPS/Giroscopio Detectar (Energía) Energía_GPS,    Energía_Giroscopio				,Munición_	Fusil,  Munición_Revolver
+GOOD : GPS/Giroscopio Detectar (Energía) Energía_GPS,    Energía_Giroscopio				,Munición_	Fusil,  Munición_Revolver
+GOOD : GPS/Giroscopio Detectar (Energía) Energía_GPS,    Energía_Giroscopio				,Munición_	Fusil,  Munición_Revolver
+GOOD : GPS/Giroscopio Detectar (Energía) Energía_GPS,    Energía_Giroscopio				,Munición_	Fusil,  Munición_Revolver
+GOOD : GPS/Giroscopio Detectar (Energía) Energía_GPS,    Energía_Giroscopio				,Munición_	Fusil,  Munición_Revolver
+GOOD : GPS/Giroscopio Detectar (Energía) Energía_GPS,    Energía_Giroscopio				,Munición_	Fusil,  Munición_Revolver
+GOOD : SoldadoExperto-GPS GPS/Giroscopio Detectar (Energía)
+GOOD : SoldadoExperto-GPS GPS/Giroscopio Detectar (Energía)
+GOOD : SoldadoExperto-GPS GPS/Giroscopio Detectar (Energía)
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : BioSensor/BioEscaner Asistir (Energía) Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   ,
+GOOD : BioSensor/BioEscaner Asistir (Energía) Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   ,
+GOOD : BioSensor/BioEscaner Asistir (Energía) Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   ,
+GOOD : BioSensor/BioEscaner Asistir (Energía) Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   ,
+ERROR: Acceso denegado.
+ERROR: Acceso denegado.
+ERROR: Acceso denegado.
+GOOD : Acceso concedido
+GOOD : Acceso concedido
+GOOD : SoldadoExperto-GPS GPS/Giroscopio Detectar (Energía)
+GOOD : SoldadoExperto-GPS GPS/Giroscopio Detectar (Energía)
+GOOD : GPS/Giroscopio Detectar (Energía) Energía_GPS,    Energía_Giroscopio				,Munición_	Fusil,  Munición_Revolver
+GOOD : GPS/Giroscopio Detectar (Energía) Energía_GPS,    Energía_Giroscopio				,Munición_	Fusil,  Munición_Revolver
+ERROR: ExoExplorador No Entrenado.
+GOOD : Acceso concedido
+ERROR: Acceso denegado.
+ERROR: Acceso denegado.
+GOOD : Acceso concedido
+ERROR: ExoMedico No Entrenado.
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : SoldadoExperto-BioSensor BioSensor/BioEscaner Asistir (Energía)
+GOOD : BioSensor/BioEscaner Asistir (Energía) Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   ,
+GOOD : BioSensor/BioEscaner Asistir (Energía) Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   ,
+GOOD : BioSensor/BioEscaner Asistir (Energía) Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   ,
+GOOD : BioSensor/BioEscaner Asistir (Energía) Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   ,
+GOOD : BioSensor/BioEscaner Asistir (Energía) Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   ,
+GOOD : BioSensor/BioEscaner Asistir (Energía) Energía_	BioSensor,  Energía_BioEscaner,Munición_Laser, Munición_Bayoneta		   ,
